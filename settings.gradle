@@ -1,0 +1,3 @@
+include ':mapper'
+include ':app'
+rootProject.name = "AutoMapper"
